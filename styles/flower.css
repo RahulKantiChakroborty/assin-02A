@@ -39,3 +39,172 @@ header {
     font-size: 20px;
     font-weight: 700;
 }
+
+/* main styles */
+.feture-flower {
+    padding: 170px 240px 0 240px;
+}
+
+.album-headline {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.album-headline,
+.headding-feture {
+    color: #272727;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.album-headline,
+h2 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.album-headline,
+p {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.flower-album {
+    display: flex;
+    gap: 24px;
+}
+
+.flower-I {
+    width: 464px;
+    height: 538px;
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.flower-II {
+    width: 464px;
+    height: 538px;
+    background-color: #0597A026;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.flower-III {
+    width: 464px;
+    height: 538px;
+    background-color: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.flower-album,
+div,
+a {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.hot-deal {
+    background-color: #E554730D;
+    display: flex;
+    align-items: center;
+    padding: 0 320px 0 350px;
+    margin-top: 128px;
+}
+
+.hot-deal-headding-color {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hot-deal-artical {
+    width: 60%;
+}
+
+.gallery-item {
+    margin-top: 130px;
+}
+
+.gallery-item,
+.gallery-info {
+    margin-top: 130px;
+    margin-bottom: 48px;
+}
+
+.gallery-item,
+div,
+h3 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.gallery-item,
+div,
+p {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.gallery,
+img {
+    margin: 10px;
+}
+
+.latest-deals {
+    background-image: url("../Flower-Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 449px;
+}
+
+#email {
+    width: 700px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.deals-info {
+    padding: 120px 0 48px 0;
+}
+
+/* footer styles */
+footer {
+    padding: 128px 600px 28px 600px;
+    margin-top: 128px;
+    background-color: #111010;
+    height: 449px;
+    text-align: center;
+}
+
+footer h3 {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+footer p {
+    color: #FFFFFFE5;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+footer span {
+    color: #FFFFFF66;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
