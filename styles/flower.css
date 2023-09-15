@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* headding styles */
+header {
+    background-color: #E554731A;
+    padding: 50px 240px 0 240px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile-article {
+    width: 50%;
+}
+
+.profile-headline {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 80px;
+}
+
+.profile-info {
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn-primary {
+    padding: 20px 43px;
+    border: 0;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
